@@ -24,6 +24,6 @@ In order to analyze and record appropraite data, I would attempt to minimize pot
 2.6e8
 
 Where to find:
-PDF with a graph - Graphs.pdf;
+PDFs with a graph - GraphFiles folder;
 Row text values - Logs.txt;
 Excel file showing the logic utilized in a project - TestGraphs.xlsx.
