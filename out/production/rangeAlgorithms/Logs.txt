@@ -1,0 +1,187 @@
+Trial 1
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():10
+Efficient range():10
+Efficient range():32
+Efficient range():47
+Efficient range():84
+Efficient range():178
+_____________________________
+Inefficient range():0
+MildlyInefficient range():0
+Inefficient range():16
+MildlyInefficient range():6
+Inefficient range():16
+MildlyInefficient range():15
+Inefficient range():101
+MildlyInefficient range():62
+Inefficient range():422
+MildlyInefficient range():215
+Inefficient range():1804
+MildlyInefficient range():975
+Inefficient range():7307
+MildlyInefficient range():3451
+
+Trial 2
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():16
+Efficient range():0
+Efficient range():16
+Efficient range():31
+Efficient range():47
+Efficient range():107
+Efficient range():211
+_____________________________
+Inefficient range():10
+MildlyInefficient range():10
+Inefficient range():11
+MildlyInefficient range():0
+Inefficient range():20
+MildlyInefficient range():11
+Inefficient range():61
+MildlyInefficient range():52
+Inefficient range():242
+MildlyInefficient range():253
+Inefficient range():957
+MildlyInefficient range():862
+Inefficient range():3948
+MildlyInefficient range():3646
+
+Trial 3
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():0
+Efficient range():2
+Efficient range():3
+Efficient range():21
+Efficient range():32
+Efficient range():53
+Efficient range():102
+Efficient range():202
+_____________________________
+Inefficient range():10
+MildlyInefficient range():10
+Inefficient range():18
+MildlyInefficient range():11
+Inefficient range():19
+MildlyInefficient range():18
+Inefficient range():120
+MildlyInefficient range():68
+Inefficient range():270
+MildlyInefficient range():227
+Inefficient range():1100
+MildlyInefficient range():1003
+Inefficient range():3818
+MildlyInefficient range():2915
+
+Trial 1.1
+EFFICIENT RANGE VALUES
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+22
+18
+15
+47
+101
+163
+_____________________________
+MILDLYINEFFICIENT RANGE VALUES
+15
+0
+15
+63
+216
+861
+3492
+_____________________________
+INEFFICIENT RANGE VALUES
+28
+13
+9
+116
+244
+932
+3806
+
+Trial 1.2
+EFFICIENT RANGE VALUES
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+31
+21
+47
+93
+208
+_____________________________
+MILDLYINEFFICIENT RANGE VALUES
+13
+9
+15
+49
+213
+910
+2882
+_____________________________
+INEFFICIENT RANGE VALUES
+7
+16
+15
+116
+258
+966
+3917
